@@ -19,7 +19,7 @@
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
- 
+  scroll-snap-align: start;
 }
 
 .section:nth-of-type(1) {
